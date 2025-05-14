@@ -1,0 +1,39 @@
+  /* Add your CSS here */
+
+  .base-button{
+  color:white;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left:10px;
+  padding-right:10px;
+  border-radius:10px;
+  box-shadow: 3px -1px 243px -19px rgba(40,80,138,0.82) inset;
+  -webkit-box-shadow: 3px -1px 243px -19px rgba(40,80,138,0.82) inset;
+  -moz-box-shadow: 3px -1px 243px -19px rgba(40,80,138,0.82) inset;
+  }
+
+  .fancy-button{
+  background-color: blue;
+  }
+
+  .fancy-button:hover{
+    background-color: darkblue;
+  }
+
+  .fancy-button:active{
+    background-color: red;
+  }
+
+
+  .scary-button{
+  background-color: red;
+
+  }
+
+  .scary-button:hover{
+    background-color: darkred;
+  }
+
+  .scary-button:active{
+    background-color: blue;
+  }
